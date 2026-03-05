@@ -1,0 +1,1 @@
+savedcmd_/home/unknown-user/Linuwu-Sense/Module.symvers :=  scripts/mod/modpost -M  -a    -N  -o /home/unknown-user/Linuwu-Sense/Module.symvers -n -T /home/unknown-user/Linuwu-Sense/modules.order -i Module.symvers -e 
